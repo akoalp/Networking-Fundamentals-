@@ -8,6 +8,6 @@ This repo for persons who want learn networking fundamentals.This repo explain b
 
 
 ## Bibliography
-Murat kara 
-alper özbilen Bilgisayar Ağları ve Güvenliği 
+Murat kara ,
+alper özbilen => Bilgisayar Ağları ve Güvenliği 
 Mert Telli => https://d4v1dh4yt3r.medium.com
